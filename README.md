@@ -1,6 +1,6 @@
 # MLDM
 
-Course labs / materials for **Machine Learning & Data Mining (MLDM)**.
+Course labs / materials for Machine Learning & Data Mining (MLDM).
 
 ## Contents
 
